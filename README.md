@@ -1,0 +1,1 @@
+This is a simple Docker image for running Snakemake workflows on the National Institute of Genetics Supercomputer.
